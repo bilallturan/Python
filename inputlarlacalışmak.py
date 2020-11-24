@@ -1,0 +1,2 @@
+ad = int(input("Adınız:"))
+
